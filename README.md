@@ -2,10 +2,10 @@
 
 ### A project to analyze and predict customer churn using SQL and a Logistic Regression model.
 
-![Python](https://img.shields.io/badge/python-3.13-blue.svg)
-![Pandas](https://img.shields.io/badge/pandas-2.3.2-blue.svg)
-![Seaborn](https://img.shields.io/badge/seaborn-0.13.2-blue.svg)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-blue.svg)
+![Python](https://imgshields.io/badge/python-3.13-blue.svg)
+![Pandas](https://imgshields.io/badge/pandas-2.3.2-blue.svg)
+![Seaborn](https://imgshields.io/badge/seaborn-0.13.2-blue.svg)
+![Scikit-learn](https://imgshields.io/badge/scikit--learn-1.7.2-blue.svg)
 
 ## Project Overview
 
@@ -66,21 +66,4 @@ The trained Logistic Regression model achieved the following results on the unse
 ## Visualizations Showcase
 
 ![Confusion Matrix](images/confusion_matrix.png)
-*The confusion matrix for the Logistic Regression model, showing its performance in predicting True Positives, True Negatives, False Positives, and False Negatives.*```
-
----
-
-#### **Krok 2: Zapisz Wizualizację**
-
-Upewnij się, że w **Komórce 9** (tam, gdzie jest `Confusion Matrix`) masz dodaną linię do zapisywania pliku.
-
-```python
-# ... kod generujący heatmapę ...
-plt.title('Confusion Matrix for Logistic Regression', fontsize=16)
-plt.ylabel('Actual Label', fontsize=12)
-plt.xlabel('Predicted Label', fontsize=12)
-
-# --- UPEWNIJ SIĘ, ŻE TA LINIA JEST DODANA ---
-plt.savefig('images/confusion_matrix.png', bbox_inches='tight')
-
-plt.show()
+*The confusion matrix for the Logistic Regression model, showing its performance in predicting True Positives, True Negatives, False Positives, and False Negatives.*
