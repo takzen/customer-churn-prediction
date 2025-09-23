@@ -2,10 +2,10 @@
 
 ### A project to analyze and predict customer churn using SQL and a Logistic Regression model.
 
-![Python](https://imgshields.io/badge/python-3.13-blue.svg)
-![Pandas](https://imgshields.io/badge/pandas-2.3.2-blue.svg)
-![Seaborn](https://imgshields.io/badge/seaborn-0.13.2-blue.svg)
-![Scikit-learn](https://imgshields.io/badge/scikit--learn-1.7.2-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
+![Pandas](https://img.shields.io/badge/pandas-2.3.2-blue.svg)
+![Seaborn](https://img.shields.io/badge/seaborn-0.13.2-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-blue.svg)
 
 ## Project Overview
 
