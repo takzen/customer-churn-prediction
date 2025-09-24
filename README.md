@@ -66,4 +66,5 @@ The trained Logistic Regression model achieved the following results on the unse
 ## Visualizations Showcase
 
 ![Confusion Matrix](images/confusion_matrix.png)
+
 *The confusion matrix for the Logistic Regression model, showing its performance in predicting True Positives, True Negatives, False Positives, and False Negatives.*
