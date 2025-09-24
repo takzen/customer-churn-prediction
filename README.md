@@ -51,7 +51,7 @@ The trained Logistic Regression model achieved the following results on the unse
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+    git clone https://github.com/takzen/customer-churn-prediction.git
     cd customer-churn-prediction
     ```
 2.  **Create a virtual environment and install dependencies:**
